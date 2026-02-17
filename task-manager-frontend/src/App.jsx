@@ -60,7 +60,7 @@ function App() {
             >
               Delete
             </button>
-<h1>Hello</h1>
+
 
             
           </li>
